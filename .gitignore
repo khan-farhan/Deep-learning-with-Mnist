@@ -1,0 +1,6 @@
+.DS_Store
+.project
+.pydevproject
+__pycache__
+test.py
+tensorflow_first.py
